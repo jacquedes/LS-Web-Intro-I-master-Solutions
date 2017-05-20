@@ -1,0 +1,44 @@
+.purple-header {
+  height: 200px;
+  width: 100%;
+  background-color: purple;
+}
+
+.red-middle {
+  background-color: red;
+  height: 1500px;
+  width: 1000px;
+  margin-left: 15%;
+  margin-right: 15%;
+  position: absolute;
+  z-index: auto;
+}
+
+.blue-square {
+  background-color: blue;
+  height: 375px;
+  width: 700px;
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-top: 8%;
+  position: relative;
+}
+
+.yellow-square {
+  background-color: yellow;
+  height:200px;
+  width: 200px;
+  margin-top: 5%;
+  margin-left: 5%;
+  float: left;
+}
+
+.green-square {
+  background-color: green;
+  height:275px;
+  width: 380px;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  float: right;
+}

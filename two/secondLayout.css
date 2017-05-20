@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+}
+
+.red-header {
+  height: 150px;
+  width: 100%;
+  background-color:red;
+}
+
+.blue-left {
+  height: 900px;
+  width: 33%;
+  float: left;
+  background-color:blue;
+}
+
+.purple-middle {
+  height: 900px;
+  width: 34%;
+  float: left;
+  background-color:purple;
+}
+
+.yellow-right {
+  height: 900px;
+  width: 33%;
+  float: right;
+  background-color:yellow;
+}
+
+.green-footer {
+  height: 150px;
+  width: 100%;
+  background-color:green;
+  display: inline-block;
+}
